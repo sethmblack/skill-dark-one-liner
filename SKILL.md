@@ -3,8 +3,9 @@ name: dark-one-liner
 description: Construct a dark comedy one-liner from a topic using misdirection architecture and economy of language principles.
 license: MIT
 metadata:
+  version: 1.0.3766
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - dark-one-liner-construction
